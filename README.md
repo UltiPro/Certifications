@@ -1,2 +1,2 @@
-# Udemy-Courses-Certifications
-Certificates of completed courses on Udemy.
+# Certifications
+Certificates of completed courses and exams by Patryk 'UltiPro' Wójtowicz.
