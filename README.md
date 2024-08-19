@@ -1,6 +1,11 @@
 # Certifications
 Certificates of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
+## YouTube
+
+* Learn Webpack Course [click](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
+* 
+
 ## Udemy
 
 * [Understanding TypeScript](https://www.udemy.com/certificate/UC-1264b5c3-7d4e-4f9e-b011-666ae7379b8a/)
@@ -20,16 +25,12 @@ Certificates of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## Microsoft
 
-* Microsoft Certified: Azure Fundamentals (AZ-900) [click](https://learn.microsoft.com/api/credentials/share/pl-pl/PatrykWjtowicz-2922/B65B5FC53BE18CC?sharingId=9C45620D696CD7C6)
+* [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/pl-pl/PatrykWjtowicz-2922/B65B5FC53BE18CC?sharingId=9C45620D696CD7C6)
 
-## Microsoft
-
-*
-
-## YouTube
-
-* Learn Webpack Course [click](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
-
-## English
+## Google
 
 *
+
+## Languages
+
+* English - [EnglishScore](https://api2.englishscore.com/verify/787ca252)
