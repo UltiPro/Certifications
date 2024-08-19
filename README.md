@@ -3,7 +3,7 @@ Certificates of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## YouTube
 
-* Learn Webpack Course [click](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
+* [Learn Webpack Course](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
 * 
 
 ## Udemy
