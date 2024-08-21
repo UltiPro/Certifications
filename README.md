@@ -33,4 +33,4 @@ Certificates of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## Languages
 
-* English - [EnglishScore](https://api2.englishscore.com/verify/787ca252)
+* [EnglishScore](https://api2.englishscore.com/verify/787ca252)
