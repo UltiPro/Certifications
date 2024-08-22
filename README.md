@@ -1,10 +1,18 @@
 # Certifications
 Certificates of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
-## YouTube
+## YouTube (ALL FREE)
 
 * [Learn Webpack Course](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
-* 
+* [Axios Tutorial](https://www.youtube.com/playlist?list=PLnHJACx3NwAdSOK3BoQ7wjCDT1Iw7hs_u)
+* [Kurs Bootstrap](https://www.youtube.com/watch?v=KsUiRguudTs&list=PLOYHgt8dIdozoxGuHVgyCieaxW7lcgiGC)
+* [Kurs Obiektowy C++](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
+* [Kurs C++](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
+* [Kurs PHP](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh)
+* [Kurs MySQL](https://www.youtube.com/playlist?list=PLOYHgt8dIdoymv-Wzvs8M-OsKFD31VTVZ)
+* [Kurs JavaScript](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC)
+* [Kurs CSS](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv)
+* [Kurs HTML](https://www.youtube.com/playlist?list=PLOYHgt8dIdox9Qq3X9iAdSVekS_5Vcp5r)
 
 ## Udemy
 
@@ -17,12 +25,12 @@ Certificates of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 * [Python Django - The Practical Guide](https://www.udemy.com/certificate/UC-0a5b33f4-250d-40d0-98d4-0fef50376f96/)
 * [Python - The Practical Guide](https://www.udemy.com/certificate/UC-757fd361-1c18-4c1a-bdee-0c8058d231c0/)
 * [15 Komponentów Na Strony WWW!](https://www.udemy.com/certificate/UC-9d4fc924-2892-4162-a8e4-459bfedfb284/)
-* [FREE - Master Regular Expressions from scratch - All languages](https://www.udemy.com/course/master-regular-expressions-from-scratch/)
-* [FREE - Regex Academy: An Introduction To Text Parsing Sorcery](https://www.udemy.com/course/regex-academy-an-introduction-to-text-parsing-sorcery/)
-* [FREE - Master in JSON](https://www.udemy.com/course/master-in-json/)
-* [FREE - Emmet: Pisz Szybszy i Wydajniejszy Kod HTML i CSS!](https://www.udemy.com/course/pisz-szybszy-i-wydajniejszy-kod-html-i-css/)
-* [FREE - Sass Workflow](https://www.udemy.com/course/sass-workflow/)
-* [FREE - Sass For the Beginners Course - Let's go ahead](https://www.udemy.com/course/sass-for-the-beginners/)
+* [Master Regular Expressions from scratch - All languages](https://www.udemy.com/course/master-regular-expressions-from-scratch/) (FREE)
+* [Regex Academy: An Introduction To Text Parsing Sorcery](https://www.udemy.com/course/regex-academy-an-introduction-to-text-parsing-sorcery/) (FREE)
+* [Master in JSON](https://www.udemy.com/course/master-in-json/) (FREE)
+* [Emmet: Pisz Szybszy i Wydajniejszy Kod HTML i CSS!](https://www.udemy.com/course/pisz-szybszy-i-wydajniejszy-kod-html-i-css/) (FREE)
+* [Sass Workflow](https://www.udemy.com/course/sass-workflow/) (FREE)
+* [Sass For the Beginners Course - Let's go ahead](https://www.udemy.com/course/sass-for-the-beginners/) (FREE)
 
 ## Microsoft
 
