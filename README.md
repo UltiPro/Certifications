@@ -1,5 +1,5 @@
 # Certifications
-Certificates of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
+Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## YouTube (ALL FREE)
 
