@@ -5,7 +5,7 @@ Certificates of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 * [Learn Webpack Course](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
 * [Axios Tutorial](https://www.youtube.com/playlist?list=PLnHJACx3NwAdSOK3BoQ7wjCDT1Iw7hs_u)
-* [Kurs Bootstrap](https://www.youtube.com/watch?v=KsUiRguudTs&list=PLOYHgt8dIdozoxGuHVgyCieaxW7lcgiGC)
+* [Kurs Bootstrap](https://www.youtube.com/playlist?list=PLOYHgt8dIdozoxGuHVgyCieaxW7lcgiGC)
 * [Kurs Obiektowy C++](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB)
 * [Kurs C++](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo)
 * [Kurs PHP](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh)
