@@ -36,6 +36,7 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 ## Microsoft
 
 * [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/pl-pl/PatrykWjtowicz-2922/B65B5FC53BE18CC?sharingId=9C45620D696CD7C6)
+* [C# language documentation](https://learn.microsoft.com/en-us/dotnet/csharp/) (FREE)
 
 ## Google
 
