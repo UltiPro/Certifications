@@ -3,6 +3,7 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## YouTube (ALL FREE)
 
+* [Git & GitHub Crash Course](https://www.youtube.com/watch?v=ulQA5tjJark)
 * [Razor Pages for ASP.NET Core](https://www.youtube.com/watch?v=aH3FhM28rPM)
 * [Learn Webpack Course](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
 * [Axios Tutorial](https://www.youtube.com/playlist?list=PLnHJACx3NwAdSOK3BoQ7wjCDT1Iw7hs_u)
