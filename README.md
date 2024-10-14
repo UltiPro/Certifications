@@ -18,6 +18,7 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## Udemy
 
+* [REST APIs with Flask and Python in 2024](https://www.udemy.com/certificate/UC-100f5486-7f59-4bde-8642-72d5dd12a84f/)
 * [Entity Framework Core - A Full Tour](https://www.udemy.com/certificate/UC-1f8c0a67-529e-4ddb-9e1e-865bbb7c51c6/)
 * [Bootstrap 5 Course - The Complete Guide Step by Step](https://www.udemy.com/certificate/UC-e0b0007e-fd63-4347-881a-6f41ac3f452e/)
 * [Understanding TypeScript](https://www.udemy.com/certificate/UC-1264b5c3-7d4e-4f9e-b011-666ae7379b8a/)
