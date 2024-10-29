@@ -3,6 +3,7 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## YouTube (ALL FREE)
 
+* [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
 * [Git & GitHub Crash Course 2023](https://www.youtube.com/watch?v=ulQA5tjJark)
 * [Razor Pages for ASP.NET Core](https://www.youtube.com/watch?v=aH3FhM28rPM)
 * [Learn Webpack Course](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
