@@ -21,6 +21,7 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## Udemy
 
+* [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/certificate/UC-459b2db0-8187-40a7-a921-d71216b72150/)
 * [Google Cloud Machine Learning - Vertex AI](https://www.udemy.com/certificate/UC-f02c1296-1d06-4281-8e88-df8a336237f7/)
 * [REST APIs with Flask and Python in 2024](https://www.udemy.com/certificate/UC-100f5486-7f59-4bde-8642-72d5dd12a84f/)
 * [Entity Framework Core - A Full Tour](https://www.udemy.com/certificate/UC-1f8c0a67-529e-4ddb-9e1e-865bbb7c51c6/)
