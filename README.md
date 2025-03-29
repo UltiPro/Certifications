@@ -53,7 +53,11 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## Cisco
 
-* [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/d91fbcfe-1b2b-4158-a8c0-ecc530e390cd) (FREE)
+* [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/d91fbcfe-1b2b-4158-a8c0-ecc530e390cd) (FREE from university)
+
+## Others
+
+* [Design Patterns](https://refactoring.guru/design-patterns) (FREE)
 
 ## Languages
 
