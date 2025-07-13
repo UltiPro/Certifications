@@ -3,6 +3,7 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## YouTube (ALL FREE)
 
+* [Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU)
 * [Harvard CS50’s Artificial Intelligence with Python](https://www.youtube.com/watch?v=5NgNicANyqM)
 * [ASP.NET Core MVC Course for Beginners (.NET 9)](https://www.youtube.com/watch?v=RWXKysImabs)
 * [Kurs Dockera](https://www.youtube.com/playlist?list=PLkcy-k498-V5AmftzfqinpMF2LFqSHK5n)
