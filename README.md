@@ -3,6 +3,7 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## YouTube (ALL FREE)
 
+* [TensorFlow 2.0 Complete Course](https://www.youtube.com/watch?v=tPYj3fFJGjk)
 * [Scikit-learn Crash Course](https://www.youtube.com/watch?v=0B5eIE_1vpU)
 * [Harvard CS50’s Artificial Intelligence with Python](https://www.youtube.com/watch?v=5NgNicANyqM)
 * [ASP.NET Core MVC Course for Beginners (.NET 9)](https://www.youtube.com/watch?v=RWXKysImabs)
