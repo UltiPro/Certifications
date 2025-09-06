@@ -9,7 +9,7 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 * [ASP.NET Core MVC Course for Beginners (.NET 9)](https://www.youtube.com/watch?v=RWXKysImabs)
 * [Kurs Dockera](https://www.youtube.com/playlist?list=PLkcy-k498-V5AmftzfqinpMF2LFqSHK5n)
 * [Postman Beginner's Course - API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
-* [Git & GitHub Crash Course 2023](https://www.youtube.com/watch?v=ulQA5tjJark)
+* [Git & GitHub Crash Course](https://www.youtube.com/watch?v=ulQA5tjJark)
 * [Razor Pages for ASP.NET Core](https://www.youtube.com/watch?v=aH3FhM28rPM)
 * [Learn Webpack Course](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
 * [Axios Tutorial](https://www.youtube.com/playlist?list=PLnHJACx3NwAdSOK3BoQ7wjCDT1Iw7hs_u)
@@ -26,7 +26,7 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 * [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/certificate/UC-459b2db0-8187-40a7-a921-d71216b72150/)
 * [Google Cloud Machine Learning - Vertex AI](https://www.udemy.com/certificate/UC-f02c1296-1d06-4281-8e88-df8a336237f7/)
-* [REST APIs with Flask and Python in 2024](https://www.udemy.com/certificate/UC-100f5486-7f59-4bde-8642-72d5dd12a84f/)
+* [REST APIs with Flask and Python](https://www.udemy.com/certificate/UC-100f5486-7f59-4bde-8642-72d5dd12a84f/)
 * [Entity Framework Core - A Full Tour](https://www.udemy.com/certificate/UC-1f8c0a67-529e-4ddb-9e1e-865bbb7c51c6/)
 * [Bootstrap 5 Course - The Complete Guide Step by Step](https://www.udemy.com/certificate/UC-e0b0007e-fd63-4347-881a-6f41ac3f452e/)
 * [Understanding TypeScript](https://www.udemy.com/certificate/UC-1264b5c3-7d4e-4f9e-b011-666ae7379b8a/)
