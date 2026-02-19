@@ -55,6 +55,7 @@ Certifications of courses and exams completed by Patryk 'UltiPro' Wójtowicz.
 
 ## Cisco
 
+* [CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/5c5ad695-fd83-43ad-a497-d23a3f4c37eb) (FREE from university)
 * [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/d91fbcfe-1b2b-4158-a8c0-ecc530e390cd) (FREE from university)
 
 ## Others
